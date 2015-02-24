@@ -1,0 +1,27 @@
+h1.title {
+  font-family: 'Rambla', sans-serif;
+}
+
+body {
+  background-image: url("surfback.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: 2000px;
+  color: #ff00da;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+}
+
+span.surfer {
+  position: relative;
+  left: 150px;
+  bottom: 100px;
+  z-index: 99;
+}
+
+img {
+  position: relative;
+  width: 200px;
+  height: 200px;
+}
